@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "personal homepage of qmengyu"
+title: "Personal Homepage of Qmengyu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
