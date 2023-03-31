@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qmengyu Account"
+title                    : "Qmengyu"
 title_separator          : "-"
-name                     : &name "Qmengyu Account"
+name                     : &name "Qmengyu"
 description              : &description "personal description"
 url                      : https://qmengyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qmengyu Account"
+  name             : "Qmengyu"
   avatar           : "profile.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "China Nan-Jin"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/qmengyu"
+  github           : "qmengyu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
