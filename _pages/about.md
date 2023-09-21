@@ -10,7 +10,7 @@ redirect_from:
 
 # 个人简介
 
-## 教育履历：
+# 教育履历：
 
 ---
 ---
@@ -30,7 +30,7 @@ redirect_from:
 
 - 获得中国大学生学院奖佳作奖，工业设计大赛二等奖，大学生创新创业项目奖
 
-## 论文和专利成果：
+# 论文和专利成果：
 
 论文：**Visual ScanPath Transformer: Guiding Computers to See the World**       发表会议：IEEE International Symposium on Mixed and Augmented Reality (**ISMAR 2023**)
 
