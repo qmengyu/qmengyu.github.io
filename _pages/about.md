@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# 个人简介
-
 # 教育履历：
 
 ---
